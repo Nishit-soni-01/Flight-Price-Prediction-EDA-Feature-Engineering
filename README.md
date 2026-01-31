@@ -17,6 +17,11 @@ The dataset includes information on 6 airlines and 6 unique cities:
 
 ## 🛠️ Data Engineering Steps
 In this project, I performed the following technical transformations:
+# 🚀 How to Use
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Nishit-soni-01/Flight-Price-Prediction.git](https://github.com/Nishit-soni-01/Flight-Price-Prediction.git)
+Install dependencies:
 1. **Handling Missing Values:** Imputed missing values in the `Total_Stops` and `Route` columns.
 2. **Temporal Extraction:** Split `Date_of_Journey` into Date, Month, and Year (Integer format).
 3. **Time Normalization:** Converted `Arrival_Time` and `Dep_Time` into Hours and Minutes.
